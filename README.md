@@ -7,7 +7,7 @@ https://github.com/hetvigandhi03/Car-sales-Dashboard---PowerBI/assets/75487912/b
 ![WhatsApp Image 2024-02-12 at 03 10 34_cbd98d40](https://github.com/hetvigandhi03/Car-sales-Dashboard---PowerBI/assets/75487912/15649cc1-f724-45d5-961e-97f294c01b73)
 
 
-Dashboard Link : 
+
 
 **Objective:**
 The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
