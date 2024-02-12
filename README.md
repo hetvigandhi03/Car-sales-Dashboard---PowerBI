@@ -1,5 +1,5 @@
 # Car-sales-Dashboard- PowerBI
-![WhatsApp Image 2024-02-12 at 03 10 16_954d34ad]
+
 
 https://github.com/hetvigandhi03/Car-sales-Dashboard---PowerBI/assets/75487912/b6b9aa55-fb74-4fa4-a872-11d63d67584e
 
